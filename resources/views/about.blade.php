@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    ME ABOUT
-    <a href="/">Home</a>
+    <h1>About Page</h1>
 </body>
 </html>
 </x-layout>

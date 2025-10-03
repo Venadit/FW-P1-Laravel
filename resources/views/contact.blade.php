@@ -1,3 +1,4 @@
+<x-layout> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Contact Page</h1>
     06123456789
-    <a href="/">Home</a>
 </body>
 </html>
+</x-layout>
